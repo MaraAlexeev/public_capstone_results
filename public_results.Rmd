@@ -1,0 +1,10 @@
+---
+title: "Public Results"
+author: "Mara Alexeev"
+date: "1/24/2022"
+output: html_document
+---
+
+You will find public results for my capstone work here. 
+
+Estimated due date: June 2022
